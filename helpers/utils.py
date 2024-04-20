@@ -1,6 +1,7 @@
 from typing import List, Tuple
-import streamlit as st
+
 import PyPDF2
+import streamlit as st
 
 
 def read_and_textify(
